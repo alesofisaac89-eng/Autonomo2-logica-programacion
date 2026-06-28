@@ -30,7 +30,7 @@ El programa cuenta con las siguientes características principales:
    - Finaliza la ejecución del programa de forma ordenada.
 
 ## 📅 Fecha
-29 de junio de 2026
+28 de junio de 2026
 
 ---
 
